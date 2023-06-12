@@ -1,0 +1,12 @@
+2023-06-12 16:51:26.755 -05 [9004] LOG:  el sistema de bases de datos fue apagado en 2023-06-12 16:50:48 -05
+2023-06-12 16:51:26.857 -05 [7560] LOG:  el sistema de bases de datos está listo para aceptar conexiones
+2023-06-12 16:57:42.503 -05 [18476] LOG:  no se pudo recibir datos del cliente: An existing connection was forcibly closed by the remote host.
+	
+2023-06-12 17:01:23.729 -05 [16608] LOG:  no se pudo recibir datos del cliente: An existing connection was forcibly closed by the remote host.
+	
+2023-06-12 17:19:38.747 -05 [18200] LOG:  no se pudo recibir datos del cliente: An existing connection was forcibly closed by the remote host.
+	
+2023-06-12 17:19:38.747 -05 [1644] LOG:  no se pudo recibir datos del cliente: An existing connection was forcibly closed by the remote host.
+	
+2023-06-12 17:19:38.747 -05 [4192] LOG:  no se pudo recibir datos del cliente: An existing connection was forcibly closed by the remote host.
+	
